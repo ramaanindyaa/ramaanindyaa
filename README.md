@@ -119,16 +119,16 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramaanindyaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramaanindyaa&layout=compact&langs_count=8&theme=tokyonight&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramaanindyaa&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramaanindyaa&layout=compact&langs_count=8&theme=gotham&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramaanindyaa&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramaanindyaa&theme=gotham&border_radius=10" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramaanindyaa&theme=tokyo-night&bg_color=1a1b27&hide_border=true&border_radius=10" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramaanindyaa&theme=gotham&bg_color=0c1014&hide_border=true&border_radius=10" width="100%"/>
 </div>
 
 ---
