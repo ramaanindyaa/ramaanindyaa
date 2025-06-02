@@ -15,7 +15,7 @@ I'm **Rama Anindya**, a dedicated Full Stack Developer with expertise in modern 
 - 👯 **Collaboration**: Open to **Open Source Contributions** and **Tech Innovation Projects**
 - 🤔 **Growth Areas**: **System Design, DevOps, and Performance Optimization**
 - 💬 **Expertise**: **JavaScript Ecosystem, Database Design, API Development**
-- 📫 **Contact**: **ramaanindya@gmail.com**
+- 📫 **Contact**: **ramaanindyaa@gmail.com**
 
 ### 🌟 Development Philosophy
 
@@ -55,6 +55,8 @@ const myApproach = {
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -85,12 +87,6 @@ const myApproach = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramaanindyaa&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ramaanindyaa&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
-</div>
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -102,8 +98,8 @@ const myApproach = {
 ```javascript
 const ramaanindyaa = {
   pronouns: 'He' | 'Him',
-  code: ['JavaScript', 'TypeScript', 'Python', 'Java'],
-  askMeAbout: ['web dev', 'tech', 'app dev', 'photography'],
+  code: ['JavaScript', 'TypeScript', 'Python', 'PHP', 'Java'],
+  askMeAbout: ['web dev', 'tech', 'app dev', 'machine learning'],
   technologies: {
     frontEnd: {
       js: ['React', 'Next.js', 'Vue'],
@@ -112,6 +108,7 @@ const ramaanindyaa = {
     backEnd: {
       js: ['Node.js', 'Express'],
       python: ['Django', 'Flask'],
+      php: ['Laravel', 'CodeIgniter'],
       java: ['Spring Boot'],
     },
     databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
