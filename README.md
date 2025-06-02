@@ -17,7 +17,7 @@
 
 ## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 I'm a **passionate Full Stack Developer** from Indonesia 🇮🇩, dedicated to crafting elegant solutions and building impactful digital experiences. With **3+ years** of hands-on experience, I specialize in modern web technologies and have a deep love for clean, scalable code.
 
