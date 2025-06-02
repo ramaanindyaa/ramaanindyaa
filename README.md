@@ -1,159 +1,151 @@
 # 👋 Hi there, I'm Rama Anindya!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Always+learning+new+things;Problem+Solver;Code+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</div>
-
-## 🚀 About Me
-
-I'm **Rama Anindya**, a dedicated Full Stack Developer with expertise in modern web technologies and a passion for creating scalable, user-friendly applications.
-
-### 🎯 Professional Focus
-
-- 🔭 **Current Role**: Full Stack Developer specializing in **React, Node.js, and Python**
-- 🌱 **Learning Path**: **Microservices Architecture, Advanced React Patterns, and Cloud Computing**
-- 👯 **Collaboration**: Open to **Open Source Contributions** and **Tech Innovation Projects**
-- 🤔 **Growth Areas**: **System Design, DevOps, and Performance Optimization**
-- 💬 **Expertise**: **JavaScript Ecosystem, Database Design, API Development**
-- 📫 **Contact**: **ramaanindyaa@gmail.com**
-
-### 🌟 Development Philosophy
-
-```javascript
-const myApproach = {
-  codeQuality: 'Clean, readable, and maintainable',
-  testing: 'Test-driven development advocate',
-  learning: 'Continuous improvement mindset',
-  collaboration: 'Team player and knowledge sharer',
-  problemSolving: 'Break complex problems into simple solutions',
-};
-```
-
-### ⚡ Quick Facts
-
-- 💻 **Experience**: 3+ years in full stack development
-- 🌍 **Location**: Indonesia
-- 🎓 **Background**: Computer Science
-- 🔧 **Debug Style**: `console.log()` enthusiast 😄
-- 🎯 **Mission**: Building technology that makes a difference
-
-## 🛠️ Tech Stack
-
-### Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-
-### Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-### Database & Cloud
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-### DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramaanindyaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramaanindyaa&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:cba6f7&height=120&section=header&text=&fontSize=0"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramaanindyaa&theme=radical" alt="GitHub Streak" />
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=600&lines=RAMA+ANINDYA;ARCHITECT+%7C+STRATEGIST+%7C+BUILDER" alt="Typing SVG" />
+  </h1>
 </div>
-
-## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramaanindyaa&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img width="40%" src="https://github.com/ramaanindyaa/ramaanindyaa/assets/your-image/architect-banner.gif" alt="architect-banner"/>
 </div>
 
-## 🎯 Current Focus
+<br/>
 
-```javascript
-const ramaanindyaa = {
-  pronouns: 'He' | 'Him',
-  code: ['JavaScript', 'TypeScript', 'Python', 'PHP', 'Java'],
-  askMeAbout: ['web dev', 'tech', 'app dev', 'machine learning'],
-  technologies: {
-    frontEnd: {
-      js: ['React', 'Next.js', 'Vue'],
-      css: ['Tailwind', 'Bootstrap', 'Material-UI'],
-    },
-    backEnd: {
-      js: ['Node.js', 'Express'],
-      python: ['Django', 'Flask'],
-      php: ['Laravel', 'CodeIgniter'],
-      java: ['Spring Boot'],
-    },
-    databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
-    cloudServices: ['AWS', 'Firebase', 'Netlify'],
-    misc: ['Docker', 'Socket.IO', 'GraphQL'],
-  },
-  architecture: [
-    'Progressive Web Apps',
-    'Single Page Applications',
-    'Microservices',
+## ⚡ STRATEGIC OVERVIEW
+
+```typescript
+interface Developer {
+  mindset: 'Architect' | 'Strategist' | 'Systems Thinker';
+  experience: '3+ Years Building Scalable Solutions';
+  focus: 'Long-term Vision, Efficient Execution';
+  philosophy: 'Perfect is the enemy of good, but good is the enemy of great';
+}
+
+const RamaAnindya: Developer = {
+  location: '🇮🇩 Indonesia',
+  mbti: 'INTJ-A',
+  currentMission: 'Engineering elegant solutions for complex problems',
+  expertise: [
+    'System Architecture',
+    'Full-Stack Development',
+    'Strategic Planning',
   ],
-  currentFocus:
-    'Building scalable full-stack applications with modern technologies',
-  funFact: "I think I'm addicted to learning new technologies!",
+
+  stack: {
+    frontend: ['React', 'Next.js', 'TypeScript', 'Tailwind'],
+    backend: ['Node.js', 'Python', 'PHP Laravel', 'Java Spring'],
+    database: ['PostgreSQL', 'MongoDB', 'Redis'],
+    cloud: ['AWS', 'Docker', 'CI/CD'],
+    tools: ['Git', 'Linux', 'VS Code'],
+  },
+
+  currentlyBuilding: 'Next-generation web applications',
+  openTo: [
+    'Strategic partnerships',
+    'Complex problem solving',
+    'Innovation projects',
+  ],
 };
 ```
 
-## 🌐 Connect with me
+<br/>
+
+## 🎯 CORE COMPETENCIES
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+### FRONTEND MASTERY
+
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+
+### BACKEND ARCHITECTURE
+
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
+
+### DATA & CLOUD
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 
 </div>
 
-## 💝 Support My Work
+<br/>
+
+## 📊 PERFORMANCE METRICS
 
 <div align="center">
-  
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramaanindyaa&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  **Thank you for visiting my profile! Have a great day! 😊**
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ramaanindyaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=CBA6F7&icon_color=CBA6F7&text_color=C9CBFF"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramaanindyaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=CBA6F7&text_color=C9CBFF"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ramaanindyaa&theme=tokyonight&hide_border=true&background=1A1B27&stroke=CBA6F7&ring=CBA6F7&fire=CBA6F7&currStreakLabel=C9CBFF"/>
+</div>
+
+<br/>
+
+## 🔮 STRATEGIC FOCUS
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Strategic Vision))
+    System Design
+      Microservices
+      Scalability
+      Performance
+    Innovation
+      AI Integration
+      Web3 Technologies
+      Cloud Native
+    Leadership
+      Mentoring
+      Architecture Reviews
+      Technical Strategy
+```
+
+</div>
+
+<br/>
+
+## 🌐 PROFESSIONAL NETWORK
+
+<div align="center">
+  <a href="mailto:ramaanindyaa@gmail.com">
+    <img src="https://img.shields.io/badge/Email-CBA6F7?style=for-the-badge&logo=gmail&logoColor=1A1B27" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/ramaanindyaa">
+    <img src="https://img.shields.io/badge/LinkedIn-CBA6F7?style=for-the-badge&logo=linkedin&logoColor=1A1B27" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ramaanindyaa">
+    <img src="https://img.shields.io/badge/Portfolio-CBA6F7?style=for-the-badge&logo=github&logoColor=1A1B27" alt="Portfolio"/>
+  </a>
+</div>
+
+<br/>
+
+## 💭 PHILOSOPHY
+
+<div align="center">
+  <i>"The best code is not just functional—it's elegant, maintainable, and strategically sound."</i>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=ramaanindyaa&label=Strategic%20Consultations&color=CBA6F7&style=flat-square" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,100:cba6f7&height=80&section=footer"/>
 </div>
