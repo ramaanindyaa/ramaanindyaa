@@ -6,14 +6,36 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **Full Stack Web Applications**
-- 🌱 I'm currently learning **Advanced React Patterns, Microservices, and Cloud Architecture**
-- 👯 I'm looking to collaborate on **Open Source Projects and Innovative Web Solutions**
-- 🤔 I'm looking for help with **System Design and DevOps Best Practices**
-- 💬 Ask me about **JavaScript, React, Node.js, Python, and Database Design**
-- 📫 How to reach me: **your.email@example.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I debug with console.log() and I'm proud of it! 😄**
+I'm **Rama Anindya**, a dedicated Full Stack Developer with expertise in modern web technologies and a passion for creating scalable, user-friendly applications.
+
+### 🎯 Professional Focus
+
+- 🔭 **Current Role**: Full Stack Developer specializing in **React, Node.js, and Python**
+- 🌱 **Learning Path**: **Microservices Architecture, Advanced React Patterns, and Cloud Computing**
+- 👯 **Collaboration**: Open to **Open Source Contributions** and **Tech Innovation Projects**
+- 🤔 **Growth Areas**: **System Design, DevOps, and Performance Optimization**
+- 💬 **Expertise**: **JavaScript Ecosystem, Database Design, API Development**
+- 📫 **Contact**: **ramaanindya@gmail.com**
+
+### 🌟 Development Philosophy
+
+```javascript
+const myApproach = {
+  codeQuality: 'Clean, readable, and maintainable',
+  testing: 'Test-driven development advocate',
+  learning: 'Continuous improvement mindset',
+  collaboration: 'Team player and knowledge sharer',
+  problemSolving: 'Break complex problems into simple solutions',
+};
+```
+
+### ⚡ Quick Facts
+
+- 💻 **Experience**: 3+ years in full stack development
+- 🌍 **Location**: Indonesia
+- 🎓 **Background**: Computer Science
+- 🔧 **Debug Style**: `console.log()` enthusiast 😄
+- 🎯 **Mission**: Building technology that makes a difference
 
 ## 🛠️ Tech Stack
 
