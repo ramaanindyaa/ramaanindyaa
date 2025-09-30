@@ -119,16 +119,16 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramaanindyaa&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=10"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramaanindyaa&layout=compact&langs_count=8&theme=gotham&border_radius=10"/>
+  <img height="180em" src="https://github-readme-statsa-kohl.vercel.app/api?username=ramaanindyaa&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img height="180em" src="https://github-readme-statsa-kohl.vercel.app/api/top-langs/?username=ramaanindyaa&layout=compact&langs_count=8&theme=gotham&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramaanindyaa&theme=gotham&border_radius=10" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ramaanindyaa&theme=vue-dark" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ramaanindyaa&theme=gotham&bg_color=0c1014&hide_border=true&border_radius=10" width="100%"/>
+  <img src="https://github-readme-activity-graph-rouge.vercel.app/graph?username=ramaanindyaa&theme=gotham&bg_color=0c1014&hide_border=true&border_radius=10" width="100%"/>
 </div>
 
 ---
@@ -186,7 +186,7 @@ const ramaanindyaa: DeveloperProfile = {
 ## 🌐 Let's Connect & Collaborate
 
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/ramaanindyaa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&border_radius=10" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/yourusername" target="_blank">
@@ -195,7 +195,7 @@ const ramaanindyaa: DeveloperProfile = {
   <a href="https://instagram.com/yourusername" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&border_radius=10" alt="Instagram"/>
   </a>
-  <a href="https://yourportfolio.com" target="_blank">
+  <a href="https://ramaanindya.my.id/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white&border_radius=10" alt="Portfolio"/>
   </a>
   <a href="mailto:ramaanindyaa@gmail.com">
