@@ -1,6 +1,12 @@
 name: Update GitHub Analytics Cards
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - README.md
+      - .github/workflows/grs.yml
   schedule:
     - cron: "17 */6 * * *"
   workflow_dispatch:
